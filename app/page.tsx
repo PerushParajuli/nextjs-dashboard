@@ -1,7 +1,7 @@
 import AcmeLogo from "@/app/ui/acme-logo";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import { lusitana } from "@/app/ui/font";
-import Dashboard from "./dashboard/page";
+import Dashboard from "./dashboard/(overview)/page";
 import Link from "next/link";
 import Image from "next/image";
 
